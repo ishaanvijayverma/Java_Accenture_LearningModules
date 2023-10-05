@@ -44,3 +44,7 @@ three==5 || three==7) && (four==4 || four==6 || four==8|| four==9)){
  flag=1;
  m++;
  }
+ }
+ }
+ }
+}
